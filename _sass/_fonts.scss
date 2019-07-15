@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Fanwood";
+    src: url("../assets/fanwood-master/Fanwood.otf");
+}
+
+@font-face {
+    font-family: "LeagueMono";
+    src: url("../assets/league-mono-master/webfonts/LeagueMono-Light.woff");
+}
+
+@font-face {
+    font-family: "LeagueSpartan";
+    src: url("../assets/league-spartan-master/LeagueSpartan-Bold.otf");
+}
+
+.caption{
+    font-size: 0.75em;
+    font-family: "LeagueMono";
+}

@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+  <center>
+    <img src="assets/a-logo.png"/>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IBZdfNYa6kU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p class='caption'>Live at the Greenbank <a href="https://www.facebook.com/groups/weallplaysynth/">EMOM</a>, July 12th 2019</p>
+  </center>
+  <p class="page-content">Anechoics  is the improvised electronic music performance and recording project of Bristol musicians 
+      Simon Metson and Ian Popperwell. They create spacious and evolving live electronic music that can be 
+      atmospheric, hypnotic, cinematic and in relationship to the environment and circumstances they play in.</p>
+  {% if site.posts.size > 0 %}
+  <h3 class="page-heading">Posts</h3>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  
+</div>
+
