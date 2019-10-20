@@ -2,7 +2,7 @@
 layout: post
 title: WAPS Rough Trade October 18th
 categories: [performance]
-tags: [bristol, waps]
+tags: [bristol, waps, video]
 ---
 We were invited to play the [We All Play Synth event at Rough Trade](https://www.facebook.com/events/2363948233713095/) in Bristol. It was fun. Here's a video of our set.
 
