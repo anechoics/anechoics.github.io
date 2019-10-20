@@ -1,6 +1,6 @@
 ---
 layout: video
-title: WAPS Rough Trade October 18th
+title: WAPS - Rough Trade, October 18th
 categories: [performance]
 tags: [bristol, waps, video]
 video_url: https://www.youtube.com/embed/vRErcJM8UtE
