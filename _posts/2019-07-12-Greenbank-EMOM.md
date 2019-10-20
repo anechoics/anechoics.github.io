@@ -2,7 +2,7 @@
 layout: video
 title: WAPS Rough Trade October 18th
 categories: [performance]
-tags: [bristol, waps, video]
+tags: [bristol, waps, video, bandcamp]
 video_url: https://www.youtube-nocookie.com/embed/IBZdfNYa6kU
 ---
 Live at the Greenbank <a href="https://www.facebook.com/groups/weallplaysynth/">EMOM</a>, July 12th 2019. The performance is also available on <a href="https://anechoics.bandcamp.com/releases">Bandcamp</a>, where it sounds a bit better.</p>
