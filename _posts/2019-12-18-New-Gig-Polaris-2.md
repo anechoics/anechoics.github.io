@@ -9,7 +9,7 @@ We've been invited back for the [second Polaris night][fb] at [the Old England](
 
 ![Event image - burn baby, burn!](/assets/images/polaris2.png)
 
-The bill also features [My][myr] and [Will Plowman][will] - it should be a doozy!
+The bill also features [Myr][myr] and [Will Plowman][will] - it should be a doozy!
 
 Tell you're friends, family & distant acquaintances that you're [going on Facebook][fb].
 
