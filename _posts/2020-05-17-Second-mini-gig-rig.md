@@ -37,4 +37,4 @@ And you're done - just need to put modules in!
 
 <img width="45%" src="/assets/images/mini-gig-rig/fin1.jpg"/>
 <img width="45%" src="/assets/images/mini-gig-rig/fin2.jpg"/>
-<img width="45%" src="/assets/images/mini-gig-rig/fin2.jpg"/>
+<img width="45%" src="/assets/images/mini-gig-rig/fin3.jpg"/>
