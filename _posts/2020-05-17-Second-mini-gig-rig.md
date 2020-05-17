@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second mini gig rig
-categories: [diy, gear]
+categories: [diy, gear, miscellany]
 tags: [diy, gear]
 ---
 
