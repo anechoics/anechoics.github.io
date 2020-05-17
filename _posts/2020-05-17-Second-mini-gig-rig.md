@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Second mini gig rig
+title: Second mini gig rig - Eurorack Ikea hack
 categories: [diy, gear, miscellany]
-tags: [diy, gear]
+tags: [diy, gear, ikea hack, eurorack]
 ---
 
 <img width="90%" src="/assets/images/mini-gig-rig/the_original.jpg"/>
 
-Since our first gig I've been using a little home made "mini gig rig" that's built into an Ikea Knagglig box. It was built pretty quickly, and is fairly rough and ready. After a bit of a tidy up I found another one of those boxes, and thought I'd make a second, andwith Covid-19 meaning there's a bit more spare time on my hands, I've actually got around to doing it. It's an easy thing to knock together, and I think a really handy size for taking out and about.
+Since our first gig I've been using a little home made "mini gig rig" that's built into an Ikea Knagglig box. It was built pretty quickly, and is fairly rough and ready. After a bit of a tidy up I found another one of those boxes, and thought I'd make a second, and with Covid-19 meaning there's a bit more spare time on my hands, I've actually got around to doing it. It's an easy thing to knock together, and I think a really handy size for taking out and about.
 
 ## You will need
 
