@@ -29,12 +29,12 @@ Next use some spare/blank panels to put the rails together. You'll want more tha
 
 Put the top and bottom (the panels with the handles) on the box. Put the rails in the box to size where the sides need to be, then screw the sides in to the top/bottom. 
 
-<img width="75%" src="/assets/images/mini-gig-rig/drill_guide.jpg"/>
+<img width="45%" src="/assets/images/mini-gig-rig/drill_guide.jpg"/>
 
 Now you need to fix the rails in place. To do this you probably want to make a drilling guide to make sure you get the holes in the right spot. I made one with some fibre board I had lying around. Drill the holes, use the M4 screws to secure the rails.
 
 And you're done - just need to put modules in!
 
-
 <img width="45%" src="/assets/images/mini-gig-rig/fin1.jpg"/>
-<img style="float:left" width="45%" src="/assets/images/mini-gig-rig/fin2.jpg"/>
+<img width="45%" src="/assets/images/mini-gig-rig/fin2.jpg"/>
+<img width="45%" src="/assets/images/mini-gig-rig/fin2.jpg"/>
