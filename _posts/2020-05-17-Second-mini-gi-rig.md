@@ -23,7 +23,7 @@ First you'll want to remove some of the inner bracing from the Knagglig. On thre
 
 Next use some spare/blank panels to put the rails together. You'll want more than one to make use things are straight, and you are probably better off using at least one panel with two screws per side. 
 
-<img  style="transform: rotate(90deg);" width="45%" src="/assets/images/mini-gig-rig/IMG_5798.jpg"/>
+<img  style="transform: rotate(90deg);" width="90%" src="/assets/images/mini-gig-rig/IMG_5798.jpg"/>
 Put the top and bottom (the panels with the handles) on the box. Put the rails in the box to size where the sides need to be, then screw the sides in to the top/bottom. 
 
 <img  style="transform: rotate(90deg);" width="90%" src="/assets/images/mini-gig-rig/IMG_5863.jpg"/>
