@@ -4,6 +4,9 @@ title: Second mini gig rig
 categories: [diy, gear]
 tags: [diy, gear]
 ---
+
+<img  style="transform: rotate(90deg);" width="90%" src="/assets/images/mini-gig-rig/IMG_5797.jpg"/>
+
 Since our first gig I've been using a little home made "mini gig rig" that's built into an Ikea Knagglig box. It was built pretty quickly, and is fairly rough and ready. After a bit of a tidy up I found another one of those boxes, and thought I'd make a second, andwith Covid-19 meaning there's a bit more spare time on my hands, I've actually got around to doing it. It's an easy thing to knock together, and I think a really handy size for taking out and about.
 
 ## You will need
@@ -20,8 +23,15 @@ First you'll want to remove some of the inner bracing from the Knagglig. On thre
 
 Next use some spare/blank panels to put the rails together. You'll want more than one to make use things are straight, and you are probably better off using at least one panel with two screws per side. 
 
+<img  style="transform: rotate(90deg);" width="45%" src="/assets/images/mini-gig-rig/IMG_5798.jpg"/>
 Put the top and bottom (the panels with the handles) on the box. Put the rails in the box to size where the sides need to be, then screw the sides in to the top/bottom. 
+
+<img  style="transform: rotate(90deg);" width="90%" src="/assets/images/mini-gig-rig/IMG_5863.jpg"/>
 
 Now you need to fix the rails in place. To do this you probably want to make a drilling guide to make sure you get the holes in the right spot. I made one with some fibre board I had lying around. Drill the holes, use the M4 screws to secure the rails.
 
 And you're done - just need to put modules in!
+
+
+<img  style="transform: rotate(90deg);" width="45%" src="/assets/images/mini-gig-rig/IMG_5861.jpg"/>
+<img  style="transform: rotate(90deg);" width="45%" src="/assets/images/mini-gig-rig/IMG_5862.jpg"/>
