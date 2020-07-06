@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Second mini gig rig - Eurorack Ikea hack
-categories: [diy, gear, miscellany]
-tags: [diy, gear, ikea hack, eurorack]
+categories: gear
+tags: [diy, ikea hack, eurorack]
 ---
 
 <img width="90%" src="/assets/images/mini-gig-rig/the_original.jpg"/>
@@ -23,11 +23,11 @@ First you'll want to remove some of the inner bracing from the Knagglig. On thre
 
 <img width="75%" src="/assets/images/mini-gig-rig/sizing.jpg"/>
 
-Next use some spare/blank panels to put the rails together. You'll want more than one to make use things are straight, and you are probably better off using at least one panel with two screws per side. 
+Next use some spare/blank panels to put the rails together. You'll want more than one to make use things are straight, and you are probably better off using at least one panel with two screws per side.
 
 <img width="75%" src="/assets/images/mini-gig-rig/screws.JPG"/>
 
-Put the top and bottom (the panels with the handles) on the box. Put the rails in the box to size where the sides need to be, then screw the sides in to the top/bottom. 
+Put the top and bottom (the panels with the handles) on the box. Put the rails in the box to size where the sides need to be, then screw the sides in to the top/bottom.
 
 <img width="45%" src="/assets/images/mini-gig-rig/drill_guide.jpg"/>
 

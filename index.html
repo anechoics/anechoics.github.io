@@ -4,25 +4,45 @@ layout: default
 
 <div class="home">
   <center>
-    <img src="assets/a-logo.png"/>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IBZdfNYa6kU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p class='caption'>Live at the Greenbank <a href="https://www.facebook.com/groups/weallplaysynth/">EMOM</a>, July 12th 2019. The performance is also available on <a href="https://anechoics.bandcamp.com/releases">Bandcamp</a>.</p>
-    <iframe style="border: 0; width: 400px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1027478205/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://anechoics.bandcamp.com/album/live-at-the-greenbank-emom-volume-1">Live at the Greenbank EMOM volume 1 by Anechoics</a></iframe>
+    <img src="assets/a-logo.png" />
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IBZdfNYa6kU" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p class='caption'>Live at the Greenbank <a href="https://www.facebook.com/groups/weallplaysynth/">EMOM</a>, July
+      12th 2019. The performance is also available on <a href="https://anechoics.bandcamp.com/releases">Bandcamp</a>.
+    </p>
+    <iframe style="border: 0; width: 400px; height: 120px;"
+      src="https://bandcamp.com/EmbeddedPlayer/album=1027478205/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/transparent=true/"
+      seamless><a href="http://anechoics.bandcamp.com/album/live-at-the-greenbank-emom-volume-1">Live at the Greenbank
+        EMOM volume 1 by Anechoics</a></iframe>
   </center>
-  <p class="page-content">Anechoics  is the improvised electronic music performance and recording project of Bristol musicians 
-      Simon Metson and Ian Popperwell. They create spacious and evolving live electronic music that can be 
-      atmospheric, hypnotic, cinematic and in relationship to the environment and circumstances they play in.</p>
+  <p class="page-content">Anechoics is the improvised electronic music performance and recording project of Bristol
+    musicians
+    Simon Metson and Ian Popperwell. They create spacious and evolving live electronic music that can be
+    atmospheric, hypnotic, cinematic and in relationship to the environment and circumstances they play in.</p>
   {% if site.posts.size > 0 %}
 
-  {% for category in site.categories %}
-  <h3 class="page-heading">{{ category[0] | capitalize }}</h3>
-  <ul class="post-list">
-    {% for post in category[1] %}
+  <div style="width: 45%; float:left; padding: 1em;">
+    <h3 class="page-heading">Performances</h3>
+    <ul class="post-list">
+      {% for post in site.categories.performance %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-  {% endfor %}
-  {% endif %}
-  
-</div>
+      {% endfor %}
+    </ul>
+  </div>
 
+  <div style="width: 45%; float:right; padding: 1em;">
+    {% for category in site.categories %}
+    {% assign cat_name = category[0] %}
+    {% unless cat_name == "performance" %}
+    <h3 class="page-heading">{{ cat_name | capitalize }}</h3>
+    <ul class="post-list">
+      {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endunless %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
+</div>

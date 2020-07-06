@@ -1,8 +1,8 @@
 ---
 layout: post
 title: What Ian has been doing
-categories: [music, blogging, miscellany]
-tags: [personal blog, music]
+categories: blogging
+tags: [personal blog, miscellany, music]
 ---
 
 While weve not been playing (stupid lockdown) we've been keeping in touch in various ways. Ian's been doing some cool stuff, cooler than me, so I thought I'd write about it here.
