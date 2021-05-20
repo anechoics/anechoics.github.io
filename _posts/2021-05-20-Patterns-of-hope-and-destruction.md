@@ -6,7 +6,7 @@ tags: [recordings]
 ---
 We have finally released our first album. This was funded through [Grant For The Web][gftw] and recorded, edited, and mixed over the course of 6 days. You can listen to it, and read more about it below. It's been a great process, and we're both really pleased with the results.
 
-<script src="https://www.audiotarky.com/$/embed.js" size="small" url="https://www.audiotarky.com/$/artists/anechoics/patterns-of-hope-destruction/"></script>
+<script src="https://www.audiotarky.com/$/embed.js" size="large" url="https://www.audiotarky.com/$/artists/anechoics/patterns-of-hope-destruction/"></script>
 
 
 **Ian:** We had a number of themes that we intended to plan material for over the weeks leading up to the first recording sessions in the studio. These were broadly based on the themes of connection and disconnection and the ideas around them were certainly articulated and explored in conversation with Simon. However, due to the second lockdown (in the COVID-19 pandemic) we were unable to meet any more and consequently were not able to work on the musical ideas to back up the themes. We went into the studio in mid-December without any pre-arranged ideas of music and simply used those first two days to get ideas down through improvisation together and emerged with the beginnings of six distinct pieces of music. The second two days in January, were used to begin arranging and editing the pieces, starting to find some shape to them and realising what might be missing, or at least required to make them interesting, given them dynamics and help them to become pieces of music rather than ‘jams with intent’.
@@ -42,5 +42,6 @@ Jack @ [Beep Boop](https://www.facebook.com/beepboopbristol/)
 [Elevator Sound](https://elevatorsound.com/), [Thonk](https://www.thonk.co.uk/), [Pusherman](https://pushermanproductions.com), Dreadbox, Arturia, Moog, [Dove Audio](https://dove-audio.com/), Mutable Instruments, Erica Synths, 4MS, Make Noise, Intellijel and many more small companies and individuals designing and building fantastic Eurorack modules.
 
 Our Families
+
 [gftw]: https://www.grantfortheweb.org/
 
