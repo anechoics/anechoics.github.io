@@ -1,6 +1,6 @@
 ---
 layout: post
-title: East Bristol Arts Trail
+title: BS5 Arts Trail
 categories: performance
 tags: [performance, bristol, installation]
 ---
